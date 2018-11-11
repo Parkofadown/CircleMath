@@ -1,0 +1,7 @@
+radius = float(input("Enter the radius "))
+numbtwo = float(2)
+pi = float(3.1415)
+diameter = radius * numbtwo
+print("The diameter of the circle is ", diameter)
+circumference = float(numbtwo * pi * radius)
+print("The The circumference of the circle is {:.2f}" .format(circumference))
